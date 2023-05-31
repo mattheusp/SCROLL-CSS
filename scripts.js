@@ -1,8 +1,10 @@
-const lastone = document.querySelector('.last-one')
+
 
 const myObserver = new IntersectionObserver((entries) => {
     console.log(entries)
 })
 
+const elements = document.querySelectorAll('.hidden')
 
-myObserver.observe(lastone)
+
+elements.fotEach( element => )
