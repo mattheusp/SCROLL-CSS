@@ -39,9 +39,21 @@ section {
     transition: all 2s;
 }
 
+.logos {
+    display: flex;
+    gap: 20px;
+
+}
+
 .avatar {
     height: 200px;
     background-color: #fff;
     border-radius: 10px;
     margin: 5px;
 }
+
+.logos :nth-child(2){
+
+    
+}
+
