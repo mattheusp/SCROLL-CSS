@@ -38,3 +38,8 @@ section {
     transform: translateX(0);
     transition: all 2s;
 }
+
+.avatar {
+    height: 200px;
+    background-color: #fff
+}
